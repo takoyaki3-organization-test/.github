@@ -1,0 +1,2 @@
+# 全リポジトリで特定のフォルダに対するレビュー制限を適用
+.github/workflows/* @takoyaki-3
